@@ -1,0 +1,3 @@
+a,v,v,v,oni
+1,2,1,3,Zilani
+6,9p,4,5,pp

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a570f96-a111-498d-ba9a-8def6d8d3a49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array_input_output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArray1.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mynptext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ziparray.npy.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ziparray.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileRead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_csv_create.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samary_statistics2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ReZauL ALaM oNi\python" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ReZauL ALaM oNi\python" />
     </key>
@@ -58,6 +60,9 @@
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -76,6 +81,9 @@
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -94,6 +102,9 @@
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -176,11 +187,11 @@
     </state>
     <state x="328" y="55" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1578585791929" />
     <state x="1827" y="183" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1578596563068" />
-    <state x="1906" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1579466287475">
+    <state x="1906" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1581959655076">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="384" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1578595801337" />
-    <state x="1906" y="294" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1579466287475" />
+    <state x="1906" y="294" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1581959655076" />
     <state x="2073" y="227" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578214668754">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
